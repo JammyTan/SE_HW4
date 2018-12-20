@@ -1,5 +1,9 @@
 import org.junit.Test;
 
+import javax.lang.model.type.NullType;
+import java.io.FileOutputStream;
+import java.io.PrintStream;
+
 import static org.junit.Assert.assertEquals;
 
 public class test {
@@ -54,5 +58,10 @@ public class test {
         assertEquals('F' ,main.letterGrade(1));
         assertEquals('F' ,main.letterGrade(0));
         assertEquals('X' ,main.letterGrade(-1));
+    }
+
+    @Test
+    public void testMain(){
+        main.main(null);
     }
 }

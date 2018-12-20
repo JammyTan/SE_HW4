@@ -11,10 +11,11 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/hw4$test.ic" NAME="test Coverage Results" MODIFIED="1545303297652" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/hw4$main.ic" NAME="main Coverage Results" MODIFIED="1545305825732" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/hw4$test.ic" NAME="test Coverage Results" MODIFIED="1545306798235" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
   <component name="CoverageViewManager">
-    <option name="myElementSize" value="90" />
+    <option name="myElementSize" value="94" />
   </component>
   <component name="FileEditorManager">
     <leaf>
@@ -22,7 +23,7 @@
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="342">
-              <caret line="18" lean-forward="true" selection-start-line="17" selection-end-line="18" />
+              <caret line="30" selection-start-line="29" selection-end-line="30" />
             </state>
           </provider>
         </entry>
@@ -30,8 +31,12 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="57">
-              <caret line="3" column="19" lean-forward="true" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
+            <state relative-caret-position="171">
+              <caret line="9" column="24" lean-forward="true" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
+              <folding>
+                <element signature="e#62#63#0" expanded="true" />
+                <element signature="e#111#112#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -39,8 +44,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
-              <caret line="25" column="48" lean-forward="true" selection-start-line="25" selection-start-column="48" selection-end-line="25" selection-end-column="48" />
+            <state relative-caret-position="224">
+              <caret line="66" column="5" lean-forward="true" selection-start-line="66" selection-start-column="5" selection-end-line="66" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -66,10 +71,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="302" />
-    <option name="y" value="156" />
-    <option name="width" value="1400" />
-    <option name="height" value="703" />
+    <option name="x" value="243" />
+    <option name="y" value="263" />
+    <option name="width" value="1236" />
+    <option name="height" value="697" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -123,7 +128,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545303613660" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545306796916" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -166,8 +171,8 @@
     <recent_temporary>
       <list>
         <item itemvalue="JUnit.test" />
-        <item itemvalue="JUnit.test.testGradeBoundary0" />
         <item itemvalue="Application.main" />
+        <item itemvalue="JUnit.test.testGradeBoundary0" />
       </list>
     </recent_temporary>
   </component>
@@ -185,21 +190,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="test - 2018.12.20 at 18h 41m 15s.xml">
-      <configuration name="test" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="test - 2018.12.20 at 18h 41m 21s.xml">
-      <configuration name="test" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="test_testGradeBoundary0 - 2018.12.20 at 18h 45m 33s.xml">
-      <configuration name="test.testGradeBoundary0" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="test - 2018.12.20 at 18h 45m 55s.xml">
-      <configuration name="test" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="test - 2018.12.20 at 18h 46m 07s.xml">
-      <configuration name="test" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="test - 2018.12.20 at 18h 50m 53s.xml">
       <configuration name="test" configurationId="JUnit" />
     </history-entry>
@@ -215,25 +205,39 @@
     <history-entry file="test - 2018.12.20 at 18h 54m 59s.xml">
       <configuration name="test" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="test - 2018.12.20 at 19h 24m 48s.xml">
+      <configuration name="test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="test - 2018.12.20 at 19h 28m 13s.xml">
+      <configuration name="test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="test - 2018.12.20 at 19h 30m 40s.xml">
+      <configuration name="test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="test - 2018.12.20 at 19h 38m 39s.xml">
+      <configuration name="test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="test - 2018.12.20 at 19h 39m 13s.xml">
+      <configuration name="test" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="302" y="156" width="1400" height="703" extended-state="0" />
-    <editor active="true" />
+    <frame x="243" y="263" width="1236" height="697" extended-state="0" />
     <layout>
       <window_info id="Image Layers" />
       <window_info id="Designer" />
       <window_info id="UI Designer" />
       <window_info id="Capture Tool" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17238806" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18622449" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Terminal" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" weight="0.3298731" />
+      <window_info anchor="bottom" id="Messages" weight="0.32978722" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.07368421" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3882979" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -243,7 +247,7 @@
       <window_info anchor="right" id="Maven" />
       <window_info anchor="right" id="Capture Analysis" />
       <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Coverage" side_tool="true" visible="true" weight="0.330597" />
+      <window_info anchor="right" id="Coverage" side_tool="true" visible="true" weight="0.30867347" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -253,21 +257,25 @@
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="342">
-          <caret line="18" lean-forward="true" selection-start-line="17" selection-end-line="18" />
+          <caret line="30" selection-start-line="29" selection-end-line="30" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" column="19" lean-forward="true" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
+        <state relative-caret-position="171">
+          <caret line="9" column="24" lean-forward="true" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
+          <folding>
+            <element signature="e#62#63#0" expanded="true" />
+            <element signature="e#111#112#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="25" column="48" lean-forward="true" selection-start-line="25" selection-start-column="48" selection-end-line="25" selection-end-column="48" />
+        <state relative-caret-position="224">
+          <caret line="66" column="5" lean-forward="true" selection-start-line="66" selection-start-column="5" selection-end-line="66" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
