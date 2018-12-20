@@ -1,9 +1,5 @@
 import org.junit.Test;
 
-import javax.lang.model.type.NullType;
-import java.io.FileOutputStream;
-import java.io.PrintStream;
-
 import static org.junit.Assert.assertEquals;
 
 public class test {
